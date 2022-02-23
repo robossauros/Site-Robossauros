@@ -7,6 +7,15 @@
 }
 
 body{
-    font-size: 100;
-    background: darkorange;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+
+position: absolute;
+width: 1430px;
+height: 1014px;
+
+background: darkorange;
+mix-blend-mode: normal;
 }

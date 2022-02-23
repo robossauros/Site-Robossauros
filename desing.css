@@ -6,16 +6,11 @@
     text-decoration: none;
 }
 
-.black{
-display: flex;
-flex-direction: row;
-align-items: flex-start;
-padding: 10px;
-
-position: absolute;
-width: 1430px;
-height: 1014px;
-
+body{
 background: darkorange;
-mix-blend-mode: normal;
+}
+
+.cab{
+    display: flex;
+    gap: 32px;
 }

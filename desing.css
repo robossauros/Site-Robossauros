@@ -6,7 +6,7 @@
     text-decoration: none;
 }
 
-body{
+.black{
 display: flex;
 flex-direction: row;
 align-items: flex-start;

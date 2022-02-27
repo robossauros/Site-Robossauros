@@ -13,7 +13,7 @@ background: darkorange;
 .cab{
     display: flex;
     flex-direction: row;
-    align-items: baseline;
+    align-items: center;
     justify-content: space-around;
-
+    padding: 24px;
 }

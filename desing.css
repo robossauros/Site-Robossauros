@@ -12,7 +12,5 @@ background: darkorange;
 
 .cab{
     display: flex;
-    gap: 30px;
-    row-gap: 30;
-    justify-content: end;
+    flex-direction: row;
 }

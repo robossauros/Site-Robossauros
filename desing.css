@@ -9,8 +9,3 @@
 body{
 background: darkorange;
 }
-
-.cab{
-    display: flex;
-    gap: 32px;
-}

@@ -9,16 +9,3 @@
 body{
 background: #f79d0b;
 }
-
-.cab{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-around;
-    padding: 24px;
-}
-
-.cab-item{
-    display: flex;
-    gap: 30px;
-}

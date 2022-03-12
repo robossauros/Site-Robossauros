@@ -9,3 +9,10 @@
 body{
 background: #ff9d00;
 }
+
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}

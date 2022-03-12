@@ -30,5 +30,7 @@ background: #ff9d00;
 
 .cabecalho-item{
     font-family: 'Smooch Sans', sans-serif;
-    height: 50px;
+    font-weight: 400;
+    font-size: 18px;
+    
 }

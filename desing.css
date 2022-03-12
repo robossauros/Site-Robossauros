@@ -15,4 +15,14 @@ background: #ff9d00;
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
+    padding: 24px;
+}
+
+.cabecalho-imagem{
+    height: 75px;
+}
+
+.cabecalho-menu{
+    display: flex;
+    gap: 32px;
 }
